@@ -12,7 +12,7 @@ Antes de começar, verifique os seguintes requisitos:
 + ![GitHub top language](https://img.shields.io/github/languages/top/OwlGuilherme/Make-Makefile)
 
 ## ⚙️ Utilização
-+ Faça o download do repositório com o comando _git clone https://github.com/OwlGuilherme/Make-Makefile/
++ Faça o download do repositório com o comando _git clone https://github.com/OwlGuilherme/Make-Makefile/_
 + Abra o terminal, na pasta do clone, execute o comando _./makeMakefile_ para executar o código
 
 ## 📮 Contribuindo para o MakeMakefile
