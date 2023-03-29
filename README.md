@@ -15,7 +15,7 @@ Antes de começar, verifique os seguintes requisitos:
 + Abra o seu terminal
 + Faça o download do repositório com o comando _git clone https://github.com/OwlGuilherme/Make-Makefile/_
 + Entre na pasta do projeto com o comando _cd Make-Makefile_
-+ Conceda permissão para execução com o comando _chmod +x makeMakefile.sh_
++ Conceda permissão para execução com o comando _chmod +x Make-Makefile.sh_
 + Execute o comando _./makeMakefile.sh_ para executar o código
 
 Após isso, será criado um Makefile.
